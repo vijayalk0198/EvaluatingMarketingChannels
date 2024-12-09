@@ -3,13 +3,13 @@ The FoodFusion Marketing Campaign Data is a simulated dataset created to provide
 
 ### Business Questions
 1)	Analysing subscription rate <br>
-(a)	What is the overall subscription rate?
-(b)	Subscription rate across different marketing channels
-(c)	Is there a significant difference in subscription rates between the channels
-(d)	How does the subscription rate vary across the months?
+(a)	What is the overall subscription rate? <br>
+(b)	Subscription rate across different marketing channels <br>
+(c)	Is there a significant difference in subscription rates between the channels <br>
+(d)	How does the subscription rate vary across the months? <br>
 2)	Analysing retention rate <br>
-(a)	What is the overall retention rate and how does it differ for each marketing channel?
-(b)	Is there a significant difference between in the retention rates between the channels?
+(a)	What is the overall retention rate and how does it differ for each marketing channel? <br>
+(b)	Is there a significant difference between in the retention rates between the channels? <br>
 3)	Subscription and retention rate by age group, meal type and dietary preferences <br>
 4)	How do users acquired through influencers differ from users acquired through other channels? <br>
 5)	What are the key factors influencing subscription rate and retention rates? <br>
